@@ -1,0 +1,15 @@
+.Promo {
+  padding: .75rem 0;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .5rem;
+  background: #2f3542;
+
+  .promo__content {
+    color: #ced6e0;
+  }
+}

@@ -1,0 +1,35 @@
+.Icon {
+  position: relative;
+  cursor: pointer;
+  display: flex;
+
+  .counter {
+    position: absolute;
+    bottom: -.25rem;
+    right: -.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 14px;
+    min-height: 14px;
+    font-size: 8px;
+    font-weight: 700;
+    color: #fff;
+    background: #ff6b81;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    padding: 0;
+  }
+
+  path {
+    stroke: #282c34;
+    transition: .4s ease;
+  }
+
+  &:hover {
+    path {
+      stroke: #ff6b81;
+      transition: .4s ease;
+    }
+  }
+}

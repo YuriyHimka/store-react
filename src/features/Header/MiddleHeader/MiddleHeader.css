@@ -1,0 +1,20 @@
+.MiddleHeader {
+  padding: 0 4rem;
+  font-size: 12px;
+  font-weight: 500;
+  color: #747d8c;
+  display: flex;
+  justify-content: space-between;
+  background: #f1f2f6;
+}
+.MiddleHeader .download__section {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  cursor: pointer;
+}
+.MiddleHeader .download__section path {
+  stroke: #747d8c;
+}
+
+/*# sourceMappingURL=MiddleHeader.css.map */

@@ -1,0 +1,113 @@
+[
+
+  {
+    "id": 1,
+    "name": "Apple Watch Black",
+    "price": 399,
+    "image": "https://cdn.stocksnap.io/img-thumbs/960w/apple-watch_6EMBFCXU0J.jpg",
+    "term": 10001,
+    "color": "black",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 2,
+    "name": "Black Beat Headphones",
+    "price": 1299,
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/09/08/headphones-1868612_1280.jpg",
+    "term": 10002,
+    "color": "black",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Level Headphones",
+    "price": 1499,
+    "image": "https://cdn.pixabay.com/photo/2019/03/31/07/44/music-4092614_1280.jpg",
+    "term": 10003,
+    "color": "white",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 4,
+    "name": "Apple Watch Grey",
+    "price": 799,
+    "image": "https://images.unsplash.com/flagged/photo-1564826836200-87e3faad54bb",
+    "term": 10004,
+    "color": "grey",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 5,
+    "name": "AirPods",
+    "price": 2199,
+    "image": "https://cdn.pixabay.com/photo/2019/07/13/10/49/music-4334557_1280.jpg",
+    "term": 10005,
+    "color": "white",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 6,
+    "name": "Sony Headphones",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc",
+    "term": 10006,
+    "color": "white",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 7,
+    "name": "Apple Airpods",
+    "price": 1199,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AirPods.jpg/640px-AirPods.jpg",
+    "term": 10007,
+    "color": "white",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 8,
+    "name": "Hitech Headphones",
+    "price": 1699,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90",
+    "term": 10008,
+    "color": "black",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 9,
+    "name": "White Smart Watch",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "term": 10009,
+    "color": "white",
+    "favorite": false,
+    "quantity": 1
+  },
+
+  {
+    "id": 10,
+    "name": "Beat Headphones",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1545127398-14699f92334b",
+    "term": 10010,
+    "color": "pink",
+    "favorite": false,
+    "quantity": 1
+  }
+
+]

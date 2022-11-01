@@ -1,0 +1,15 @@
+.Navigation ul {
+  display: flex;
+  gap: 2rem;
+}
+.Navigation li {
+  list-style: none;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+.Navigation li:hover {
+  color: #ff6b81;
+  transition: 0.4s ease;
+}
+
+/*# sourceMappingURL=Navigation.css.map */

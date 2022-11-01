@@ -1,0 +1,22 @@
+.Tabs {
+  margin-top: 4rem;
+}
+.Tabs a {
+  text-decoration: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: 2rem;
+  font-size: 14px;
+}
+.Tabs h3 {
+  text-align: center;
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+}
+.Tabs .tabs__items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/*# sourceMappingURL=Tabs.css.map */

@@ -1,0 +1,16 @@
+.Promo {
+  padding: 0.75rem 0;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  background: #2f3542;
+}
+.Promo .promo__content {
+  color: #ced6e0;
+}
+
+/*# sourceMappingURL=Promo.css.map */

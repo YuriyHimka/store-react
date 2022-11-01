@@ -1,0 +1,28 @@
+.Profile {
+  font-size: 14px;
+  font-weight: 600;
+  color: #282c34;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-left: 2rem;
+  border-left: 1px solid #282c34;
+}
+.Profile .user-photo__section {
+  width: 32px;
+  height: 32px;
+  border-radius: 22px;
+  border: 1px solid #bdc3c7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Profile .user-photo__section .photo {
+  width: 26px;
+  height: 26px;
+  border-radius: 14px;
+  background: url("https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg");
+  background-size: cover;
+}
+
+/*# sourceMappingURL=Profile.css.map */
