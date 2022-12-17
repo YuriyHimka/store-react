@@ -1,0 +1,18 @@
+.Sidebar {
+  min-width: 280px;
+
+  .sidebar__content {
+    background: #fff;
+    padding: .5rem 1rem;
+    border-bottom: 1px solid #ced6e0;
+  }
+
+  .sidebar-title {
+    font-weight: 600;
+  }
+
+  .last {
+    border-bottom-left-radius: .6rem;
+    border-bottom-right-radius: .6rem;
+  }
+}

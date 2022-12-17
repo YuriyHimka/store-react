@@ -13,7 +13,6 @@ import {
     PURGE,
     REGISTER,
 } from 'redux-persist'
-import { cartSlice } from "./slices/cartSlice";
 
 
 const persistConfig = {

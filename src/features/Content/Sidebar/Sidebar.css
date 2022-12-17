@@ -1,0 +1,17 @@
+.Sidebar {
+  min-width: 280px;
+}
+.Sidebar .sidebar__content {
+  background: #fff;
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #ced6e0;
+}
+.Sidebar .sidebar-title {
+  font-weight: 600;
+}
+.Sidebar .last {
+  border-bottom-left-radius: 0.6rem;
+  border-bottom-right-radius: 0.6rem;
+}
+
+/*# sourceMappingURL=Sidebar.css.map */

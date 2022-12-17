@@ -1,18 +1,18 @@
 .active {
-  color: #ecf0f1;
-  background: #282c34;
+  color: #57606f;
+  border: 1px solid #f1f2f6;
+  background: #f1f2f6;
   cursor: inherit;
 }
 
 .default {
   color: #747d8c;
-  border: 1px solid #b2bec3;
+  border: 1px solid #d0dade;
   transition: 0.4s;
 }
 .default:hover {
   color: #282c34;
-  background: #ecf0f1;
-  border: 1px solid #ecf0f1;
+  background: #f1f2f6;
   transition: 0.4s;
 }
 

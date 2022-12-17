@@ -3,6 +3,7 @@ import './Layout.scss'
 import Header from "../Header/Header";
 import Search from "../Search/Search";
 import Tabs from "../Tabs/Tabs";
+import Content from "../Content/Content";
 
 const Layout = () => {
     return (
@@ -10,6 +11,7 @@ const Layout = () => {
             <Header />
             <Search />
             <Tabs />
+            <Content />
         </div>
     )
 }

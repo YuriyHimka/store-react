@@ -17,12 +17,3 @@ export interface IProducts {
     favorite: boolean
     quantity: number
 }
-
-export interface ServerResponse<T> {
-    config: {}
-    data: T[]
-    headers: {}
-    request: {}
-    status: number
-    statusText: string
-}
